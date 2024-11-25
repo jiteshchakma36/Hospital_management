@@ -11,8 +11,11 @@ Data Normalization
 Functional Dependencies -
 
 Patient :{ID,name,age,gender}
+
 Appointment :{date, time, id}
+
 Medical History : {apptID, date , diagnosis}
+
 Doctor : {doctorID, name, age}
 
 On basis if the functional dependencies that exist in the table, we realize that the entire database has been normalized upto 3 NF.
