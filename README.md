@@ -21,8 +21,11 @@ Table Utilized
 
 
 Patient
+
 Doctor
+
 Appointment
+
 Medical History
 
 Relations between the tables -
